@@ -7,7 +7,7 @@ Ingredients
 * shredded coconut
 * sugar
 * rice porridge
-* vanila sugar
+* vanilla sugar
 * baking powder
 * butter
 * eggs
@@ -16,5 +16,5 @@ Procedure
 ---------
 
 * mix all dry ingredients
-* add choped butter and eggs, knead
+* add chopped butter and eggs, knead
 * bake 15 minutes
